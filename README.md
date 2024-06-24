@@ -1,1 +1,1 @@
-# Calculadora-What-Sigma
+# Calculadora
